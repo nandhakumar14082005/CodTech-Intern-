@@ -18,3 +18,5 @@ Identify common web vulnerabilities:
 - Use prepared statements
 - Validate and sanitize input
 - Encode output
+
+Conducted vulnerability assessment on a sample web application and documented SQL Injection and XSS findings with remediation recommendations.
