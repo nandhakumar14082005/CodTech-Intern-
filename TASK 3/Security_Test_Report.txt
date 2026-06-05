@@ -1,0 +1,10 @@
+Executive Summary
+
+Confirmed:
+1. SQL Injection - High
+2. Cross Site Scripting - Medium
+
+Recommendations:
+- Prepared statements
+- Output encoding
+- Input validation
